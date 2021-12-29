@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shitify-website/static/css/main.be1983e8.css",
-    "main.js": "/shitify-website/static/js/main.b64c2dbe.js",
+    "main.css": "/shitify-website/static/css/main.a4bf78f7.css",
+    "main.js": "/shitify-website/static/js/main.3581844e.js",
     "static/js/787.dfc684d3.chunk.js": "/shitify-website/static/js/787.dfc684d3.chunk.js",
     "index.html": "/shitify-website/index.html",
-    "main.be1983e8.css.map": "/shitify-website/static/css/main.be1983e8.css.map",
-    "main.b64c2dbe.js.map": "/shitify-website/static/js/main.b64c2dbe.js.map",
+    "main.a4bf78f7.css.map": "/shitify-website/static/css/main.a4bf78f7.css.map",
+    "main.3581844e.js.map": "/shitify-website/static/js/main.3581844e.js.map",
     "787.dfc684d3.chunk.js.map": "/shitify-website/static/js/787.dfc684d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be1983e8.css",
-    "static/js/main.b64c2dbe.js"
+    "static/css/main.a4bf78f7.css",
+    "static/js/main.3581844e.js"
   ]
 }
